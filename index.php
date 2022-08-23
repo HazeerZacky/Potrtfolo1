@@ -168,7 +168,7 @@
                         </div>
 
                         <div class="about__buttons">
-                            <a download="" href="assets/pdf/Mohanned-Hazeer-Zacky-CV.pdf" target="_blank" class="button button--flex">
+                            <a download="" href="assets/pdf/MohannedHazeerZackyCV.pdf" target="_blank" class="button button--flex">
                                 Download CV  <i class="uil uil-download-alt button__icon"></i>
                             </a>
                         </div>
