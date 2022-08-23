@@ -13,7 +13,7 @@
         <!--==================== CSS ====================-->
         <link rel="stylesheet" href="assets/css/styles.css">
 
-        <title>Hazeer Zacky</title>
+        <title>Hazeer Zackyhhhhhh</title>
     </head>
     <body>
         <!--==================== HEADER ====================-->
