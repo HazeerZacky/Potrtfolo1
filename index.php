@@ -80,27 +80,27 @@
                     <div class="home__content grid">
                         <div class="home__social">
                             <!-- Lined In -->
-                            <a href="https://www.linkedin.com/" target="_blank" class="home__social-icon">
+                            <a href="https://www.linkedin.com/HazeerZacky" target="_blank" class="home__social-icon">
                                 <i class="uil uil-linkedin-alt"></i>
                             </a>
 
                             <!-- Facebook -->
-                            <a href="https://www.linkedin.com/" target="_blank" class="home__social-icon">
+                            <a href="https://www.facebook.com/HazeerZacky" target="_blank" class="home__social-icon">
                                 <i class="uil uil-facebook"></i>
                             </a>
                             
                             <!-- Instagram -->
-                            <a href="https://www.linkedin.com/" target="_blank" class="home__social-icon">
+                            <a href="https://www.instagram.com/HazeerZacky" target="_blank" class="home__social-icon">
                                 <i class="uil uil-instagram"></i>
                             </a>
 
                             <!-- Dribbble -->
-                            <a href="https://dribbble.com/" target="_blank" class="home__social-icon">
+                            <a href="https://dribbble.com/HazeerZacky" target="_blank" class="home__social-icon">
                                 <i class="uil uil-dribbble"></i>
                             </a>
                              
                             <!-- GitHub -->
-                            <a href="https://github.com/" target="_blank" class="home__social-icon">
+                            <a href="https://github.com/HazeerZacky" target="_blank" class="home__social-icon">
                                 <i class="uil uil-github-alt"></i>
                             </a>
                         </div>
