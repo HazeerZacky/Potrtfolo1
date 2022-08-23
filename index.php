@@ -13,7 +13,11 @@
         <!--==================== CSS ====================-->
         <link rel="stylesheet" href="assets/css/styles.css">
 
-        <title>Hazeer Zacky</title>
+        <title>Mohammed Hazeer Zacky | Portfolio</title>
+        <!--Favicon-->
+        <link href ="assets/img/fav1.png" rel="icon">
+        <meta content="" name="description">
+        <meta content="" name="keywords">
     </head>
     <body>
         <!--==================== HEADER ====================-->
