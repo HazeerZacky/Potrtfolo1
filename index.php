@@ -95,8 +95,8 @@
                             </a>
 
                             <!-- Dribbble -->
-                            <a href="https://dribbble.com/HazeerZacky" target="_blank" class="home__social-icon">
-                                <i class="uil uil-dribbble"></i>
+                            <a href="https://behance.com/HazeerZacky" target="_blank" class="home__social-icon">
+                                <i class="uil uil-behance-alt"></i>
                             </a>
                              
                             <!-- GitHub -->
@@ -440,9 +440,29 @@
                                 </div> 
                                 <div>
                                     <span class="qualification__rounder"></span>
-                                    <!-- <span class="qualification__line"></span> -->
+                                    <span class="qualification__line"></span>
                                 </div>
                             </div>
+
+                            <!--==================== QUALIFICATION 4 ====================-->
+                            <div class="qualification__data">
+                                <div></div>
+
+                                <div>
+                                    <span class="qualification__rounder"></span>
+                                    <!-- <span class="qualification__line"></span> -->
+                                </div>
+
+                                <div>
+                                    <h3 class="qualification__title">Bachelor of Information Technology(R)</h3>
+                                    <span class="qualification__subtitle">University of Colombo School of Computing</span>
+                                    <div class="qualification__calendar">
+                                        <i class="uil uil-calendar-alt"></i>
+                                        2021 - Present
+                                    </div>
+                                </div> 
+                            </div>
+
                         </div>
 
                         <!--==================== QUALIFICATION CONTENT 2 ====================-->
@@ -485,17 +505,36 @@
                             <!--==================== QUALIFICATION 3 ====================-->
                             <div class="qualification__data">
                                 <div>
-                                    <h3 class="qualification__title">Assistant Software Engineer</h3>
+                                    <h3 class="qualification__title">Graphic Designer & IT Support</h3>
                                     <span class="qualification__subtitle">Royal Tech IT Solutions - Kalmunai</span>
+                                    <div class="qualification__calendar">
+                                        <i class="uil uil-calendar-alt"></i>
+                                        Apr 2022 - Sep 2022
+                                    </div>
+                                </div> 
+                                <div>
+                                    <span class="qualification__rounder"></span>
+                                    <span class="qualification__line"></span>
+                                </div>
+                            </div>
+
+                            <!--==================== QUALIFICATION 4 ====================-->
+                            <div class="qualification__data">
+                                <div></div>
+
+                                <div>
+                                    <span class="qualification__rounder"></span>
+                                    <!-- <span class="qualification__line"></span> -->
+                                </div>
+
+                                <div>
+                                    <h3 class="qualification__title">Frontend Web Developer</h3>
+                                    <span class="qualification__subtitle">Remotic Lab - Nintavur</span>
                                     <div class="qualification__calendar">
                                         <i class="uil uil-calendar-alt"></i>
                                         2022 - Present
                                     </div>
                                 </div> 
-                                <div>
-                                    <span class="qualification__rounder"></span>
-                                    <!-- <span class="qualification__line"></span> -->
-                                </div>
                             </div>
                         </div>
                     </div>
@@ -512,7 +551,7 @@
                     <div class="services__content">
                         <div>
                             <i class="uil uil-web-grid services__icon"></i>
-                            <h3 class="services__title">Ui/Ux <br> Designer</h3>
+                            <h3 class="services__title">UI/UX <br> Designer</h3>
                         </div>
                         <span class="button button--flex button--small button--link services__button">
                             View More
@@ -882,6 +921,7 @@
                         <a href="https://twitter.com/HazeerZacky" target="_blank" class="footer__social">
                             <i class="uil uil-twitter-alt"></i>
                         </a>
+                        <br>
                         <a href="https://linkedin.com/HazeerZacky" target="_blank" class="footer__social">
                             <i class="uil uil-linkedin-alt"></i>
                         </a>
